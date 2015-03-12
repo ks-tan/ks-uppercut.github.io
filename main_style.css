@@ -44,6 +44,7 @@ body {
 }
 .quote1{
 	position: absolute;
+	text-align: center;
 	top: -35%;
 }
 .headerBtm{
@@ -51,10 +52,13 @@ body {
 	top: 105%;
 }
 .freeQuote{
+	position: absolute;
+	left: 30%;
 	font-size: 50px;
-	text-align: right;
+	text-align: center;
 }
 .googleplay{
+	text-align: center;
 	width: 300px;
 }
 .quote2{
