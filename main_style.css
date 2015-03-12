@@ -37,34 +37,26 @@ body {
 .title{
 	width: 400px;
 }
-
 .countdown{
 	position: absolute;
 	font-size: 50px;
 	top: -35%;
-	left: 5%;
 }
 .quote1{
-}
-.freequote{
 	position: absolute;
-	bottom: -10%;
-	font-size: 30px;
-	left: 5%;
+	top: -35%;
+}
+.headerBtm{
+	position: absolute;
+	top: 105%;
 }
 .freeQuote{
-	position: absolute;
-	bottom: -15%;
-	left: 20%;
 	font-size: 50px;
+	text-align: right;
 }
 .googleplay{
-	position: absolute;
-	bottom: -15%;
-	left: 55%;
 	width: 300px;
 }
-
 .quote2{
 	text-align: center;
 }
@@ -100,7 +92,7 @@ body {
 	font-size: 40px;
 }
 .destroy{
-	font-size: 40px;
+	font-size: 35px;
 }
 
 .devTeamRectangle{
