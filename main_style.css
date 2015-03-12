@@ -106,10 +106,29 @@ body {
 	margin-left: auto;
 	z-index: -1;
 	width:90%;
-    height:600px;
+    height:650px;
     background:#404040;
     opacity: 0.5;
     border-radius: 25px;
+}
+.devTeam{
+	position: absolute;
+	width: 85%;
+	left: 8%;
+	top: 20px;
+}
+.teamTitle{
+	font-size: 30px;
+	text-align: center;
+}
+.teamAbout{
+	text-align: center;
+}
+.nusgdglogo{
+	width: 600px;
+		display: block;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .time{
